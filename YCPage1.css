@@ -1,0 +1,38 @@
+header {
+     align-content: center;
+     text-align-last: center;
+     background-color: whitesmoke;
+     border-radius: 
+    }
+
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-bottom: 15px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+  }
+  
+
+#myButton{
+    font-size:10px; 
+    padding: 10px;
+    border-radius: 15px;
+    color: chocolate;
+
+
+}
+
+h4{
+   
+    height: 20px;
+    border-radius: 0px;
+    margin-bottom: 15px;
+    background-color: coral;
+}
+
